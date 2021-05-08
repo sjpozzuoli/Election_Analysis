@@ -4,4 +4,8 @@
 
 ## Election-Audit Results
 
+#### - There were a total of 369,711 votes cast during this election.
 
+![Total_Votes](https://user-images.githubusercontent.com/81929616/117553653-c970ff80-b020-11eb-8a22-50007a3b5852.PNG)
+
+#### - 
