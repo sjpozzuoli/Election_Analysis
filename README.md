@@ -23,4 +23,4 @@
 
 ## Election-Audit Summary
 
-#### In summation, 
+#### In summation, the scripts we used to analyze the data of this local election can be used for almost any election data, with some minor tweaks. First, there is some other information that is important when looking at the distribution of votes to different candidates. For example, one of those many data points is party affiliation. Adding in Republican, Democrat, Independent, etc. as another data variable could provide the winning candidate more information as to which party base they will have to work harder to "win" over during their time in office, especially if they would like to seek re-election for another term.
