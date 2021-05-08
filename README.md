@@ -21,3 +21,6 @@
 
   ![Winner_Print](https://user-images.githubusercontent.com/81929616/117553948-80ba4600-b022-11eb-9fc7-299527d68a83.PNG)
 
+## Election-Audit Summary
+
+#### In summation, 
