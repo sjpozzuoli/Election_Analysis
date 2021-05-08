@@ -13,4 +13,11 @@
 
   ![County_Votes](https://user-images.githubusercontent.com/81929616/117553834-bb6fae80-b021-11eb-8a4c-98556092bb02.PNG)
 
+- Now for the cadidates: Charles Casper Stockham received 85,213 votes, which equated to 23% of the total vote. Diana DeGette received 272,892 votes, which equated to 73.8% of the total vote. Raymon Anthony Doane received 11,606 votes, which equated to 3.1% of the total vote.
+
+  ![Candidate_Votes](https://user-images.githubusercontent.com/81929616/117553929-57011f00-b022-11eb-93d0-5e011652cdfe.PNG)
+
+- Finally, after examaning all of this information, it was determined that Diana DeGette won the election with a total of 272,892 votes, or 73.8% of the total votes cast.
+
+  ![Winner_Print](https://user-images.githubusercontent.com/81929616/117553948-80ba4600-b022-11eb-9fc7-299527d68a83.PNG)
 
